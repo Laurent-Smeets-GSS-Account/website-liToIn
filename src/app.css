@@ -358,3 +358,17 @@ svg {
 	min-width: 0;
 	max-width: 100%;
 }
+
+/* Mobile: set minimum width to force zoom out */
+@media (max-width: 768px) {
+	body {
+		min-width: 480px;
+	}
+	
+	/* Give charts more breathing room */
+	.chart-wrapper,
+	.chart-container,
+	.sankey-container {
+		min-width: 450px;
+	}
+}
