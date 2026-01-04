@@ -1,0 +1,17 @@
+goodloc_econ,pct_right_track,n,predictor,open_dialogue,food_secure,hap_dig_ser,election_fair,befinwb_next,no_wat_disrupt,no_elec_disrupt
+0,68.6574807107049,1493,goodloc_econ,NA,NA,NA,NA,NA,NA,NA
+1,77.6825767040184,8435,goodloc_econ,NA,NA,NA,NA,NA,NA,NA
+NA,38.44135390488255,2061,open_dialogue,0,NA,NA,NA,NA,NA,NA
+NA,84.81388658910231,7867,open_dialogue,1,NA,NA,NA,NA,NA,NA
+NA,72.28409865943826,2528,food_secure,NA,0,NA,NA,NA,NA,NA
+NA,77.68465027526959,7400,food_secure,NA,1,NA,NA,NA,NA,NA
+NA,30.25430520858609,705,hap_dig_ser,NA,NA,0,NA,NA,NA,NA
+NA,79.51300339172185,9222,hap_dig_ser,NA,NA,1,NA,NA,NA,NA
+NA,54.38230577188084,446,election_fair,NA,NA,NA,0,NA,NA,NA
+NA,87.78509335389181,1561,election_fair,NA,NA,NA,1,NA,NA,NA
+NA,75.178482818372,263,befinwb_next,NA,NA,NA,NA,0,NA,NA
+NA,76.1537730005846,7757,befinwb_next,NA,NA,NA,NA,1,NA,NA
+NA,63.33197269460897,135,no_wat_disrupt,NA,NA,NA,NA,NA,0,NA
+NA,76.32761292949056,9793,no_wat_disrupt,NA,NA,NA,NA,NA,1,NA
+NA,77.76066611651288,918,no_elec_disrupt,NA,NA,NA,NA,NA,NA,0
+NA,76.08234757378395,9010,no_elec_disrupt,NA,NA,NA,NA,NA,NA,1

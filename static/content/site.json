@@ -1,0 +1,71 @@
+{
+  "title": "Listening to Indonesia",
+  "subtitle": "High-Frequency Monitoring of Household Welfare",
+  "description": "Listening to Indonesia is a joint Bappenas-World Bank program that tracks household welfare, economic conditions, and public sentiment through a nationally representative monthly panel survey.",
+  "logo": "images/logo.png",
+  "_logoNote": "Replace static/images/logo.png with your actual logo file",
+  
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "Economic", "href": "/economic-livelihood" },
+    { "label": "Services", "href": "/services-access" },
+    { "label": "Vulnerability", "href": "/vulnerability" },
+    { "label": "Food", "href": "/food-insecurity" },
+    { "label": "Opinion", "href": "/public-opinion" },
+    { "label": "Other", "href": "/other-indicators" }
+  ],
+  
+  "stats": [
+    {
+      "label": "Households",
+      "value": "3,600",
+      "icon": "home",
+      "subtitle": "surveyed regularly"
+    },
+    {
+      "label": "Representative",
+      "value": "National",
+      "icon": "globe",
+      "subtitle": "coverage across Indonesia"
+    },
+    {
+      "label": "Method",
+      "value": "CATI",
+      "icon": "phone",
+      "subtitle": "phone interviews"
+    },
+    {
+      "label": "Started",
+      "value": "Mar 2024",
+      "icon": "calendar",
+      "subtitle": "ongoing monthly"
+    }
+  ],
+  
+  "latestChart": {
+    "title": "Self-Reported Poverty Over Time",
+    "dataFile": "502_self_reported_poverty_time_series.csv",
+    "xKey": "date",
+    "yKeys": ["percentage"],
+    "labels": {
+      "percentage": "Self-Reported Poverty Rate (%)"
+    },
+    "xLabel": "Month",
+    "yLabel": "Percentage (%)"
+  },
+  
+  "colors": {
+    "primary": "#C41E3A",
+    "secondary": "#1E3A5F",
+    "accent": "#D4AF37",
+    "background": "#FAFAFA",
+    "surface": "#FFFFFF",
+    "muted": "#6B7280"
+  },
+  
+  "footer": {
+    "organizationName": "World Bank",
+    "disclaimer": "The findings, interpretations, and conclusions expressed in this website are entirely those of the authors and should not be attributed to the World Bank.",
+    "license": "Data is provided under Creative Commons Attribution 4.0 International License."
+  }
+}

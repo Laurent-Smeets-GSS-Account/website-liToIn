@@ -1,0 +1,110 @@
+{
+  "topics": [
+    {
+      "id": "economic-livelihood",
+      "title": "Economic & Livelihood",
+      "icon": "chart-bar",
+      "color": "#C41E3A",
+      "link": "/economic-livelihood",
+      "description": "Track subjective poverty, economic mobility expectations, and coping strategies.",
+      "items": [
+        "Self-reported poverty rates",
+        "Economic class transitions",
+        "Future outlook & optimism",
+        "Coping strategies"
+      ],
+      "dataFiles": [
+        "501_economic_class_distribution.csv",
+        "502_self_reported_poverty_time_series.csv",
+        "503_economic_mobility_sankey.csv",
+        "504_economic_outlook_by_quintile.csv",
+        "505_coping_strategies_time_series.csv",
+        "506_median_income_by_class.csv",
+        "507_individual_characteristics_by_class.csv"
+      ]
+    },
+    {
+      "id": "services-access",
+      "title": "Services and Amenities",
+      "icon": "lightning",
+      "color": "#059669",
+      "link": "/services-access",
+      "description": "Monitor access to essential services including water, electricity, and infrastructure.",
+      "items": [
+        "Water access and disruptions",
+        "Electricity availability",
+        "Internet connectivity",
+        "Transportation access"
+      ],
+      "dataFiles": [
+        "101_water_disruption_by_region.csv"
+      ]
+    },
+    {
+      "id": "vulnerability",
+      "title": "Detect Vulnerabilities",
+      "icon": "shield",
+      "color": "#7C3AED",
+      "link": "/vulnerability",
+      "description": "Identify vulnerable populations and track exposure to shocks and risks.",
+      "items": [
+        "Fraud and scam exposure",
+        "Natural disaster impacts",
+        "Health vulnerabilities",
+        "Financial shocks"
+      ],
+      "dataFiles": [
+        "601_fraud_rates_by_quintile.csv"
+      ]
+    },
+    {
+      "id": "food-insecurity",
+      "title": "Track Food Insecurity",
+      "icon": "heart",
+      "color": "#DC2626",
+      "link": "/food-insecurity",
+      "description": "Monitor food security indicators and nutrition across households.",
+      "items": [
+        "FIES indicators",
+        "Food consumption patterns",
+        "Coping strategies",
+        "Nutrition access"
+      ],
+      "dataFiles": [
+        "204_fies_measures_by_quintile.csv"
+      ]
+    },
+    {
+      "id": "public-opinion",
+      "title": "Understand Public Opinion",
+      "icon": "users",
+      "color": "#0891B2",
+      "link": "/public-opinion",
+      "description": "Gauge public sentiment on government policies and social issues.",
+      "items": [
+        "Trust in institutions",
+        "Policy preferences",
+        "Tax opinions",
+        "Service satisfaction"
+      ],
+      "dataFiles": [
+        "705_tax_preferences_ranking.csv"
+      ]
+    },
+    {
+      "id": "other-indicators",
+      "title": "Explore Other Indicators",
+      "icon": "document",
+      "color": "#6B7280",
+      "link": "/other-indicators",
+      "description": "Additional data and cross-cutting themes from the survey.",
+      "items": [
+        "Demographics",
+        "Migration patterns",
+        "Education access",
+        "Social protection"
+      ],
+      "dataFiles": []
+    }
+  ]
+}

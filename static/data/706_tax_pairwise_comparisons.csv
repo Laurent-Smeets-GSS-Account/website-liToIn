@@ -1,0 +1,79 @@
+opt1,opt2,opt1_wins,opt2_wins,total,opt1_win_rate,opt1_name,opt2_name
+a,b,72,45,118,61.016949152542374,Consumption (VAT),Personal income tax
+a,c,20,95,116,17.24137931034483,Consumption (VAT),Corporate income tax
+a,d,32,76,109,29.357798165137616,Consumption (VAT),Local tax
+a,e,14,104,118,11.864406779661017,Consumption (VAT),Tax on imports (tariffs)
+a,f,81,43,124,65.32258064516128,Consumption (VAT),Social tax/contributions in payroll
+a,g,65,64,129,50.3875968992248,Consumption (VAT),Tax on land value
+a,h,68,64,133,51.127819548872175,Consumption (VAT),Financial transaction tax
+a,i,40,88,131,30.53435114503817,Consumption (VAT),Tax on cigarettes
+a,j,71,47,122,58.19672131147541,Consumption (VAT),Tax on sugar
+a,k,30,84,117,25.64102564102564,Consumption (VAT),Tax on alcohol
+a,l,51,54,106,48.113207547169814,Consumption (VAT),Tax on single use plastic
+a,m,42,61,105,40,Consumption (VAT),"Tax on pollution, like greenhouse gasses"
+b,c,14,93,109,12.844036697247708,Personal income tax,Corporate income tax
+b,d,13,96,112,11.607142857142858,Personal income tax,Local tax
+b,e,16,95,112,14.285714285714285,Personal income tax,Tax on imports (tariffs)
+b,f,42,67,110,38.18181818181819,Personal income tax,Social tax/contributions in payroll
+b,g,47,72,120,39.166666666666664,Personal income tax,Tax on land value
+b,h,36,84,122,29.508196721311474,Personal income tax,Financial transaction tax
+b,i,24,86,115,20.869565217391305,Personal income tax,Tax on cigarettes
+b,j,31,64,100,31,Personal income tax,Tax on sugar
+b,k,25,64,95,26.31578947368421,Personal income tax,Tax on alcohol
+b,l,30,66,100,30,Personal income tax,Tax on single use plastic
+b,m,30,75,108,27.77777777777778,Personal income tax,"Tax on pollution, like greenhouse gasses"
+c,d,68,46,115,59.130434782608695,Corporate income tax,Local tax
+c,e,48,69,117,41.02564102564102,Corporate income tax,Tax on imports (tariffs)
+c,f,96,19,117,82.05128205128204,Corporate income tax,Social tax/contributions in payroll
+c,g,86,27,116,74.13793103448276,Corporate income tax,Tax on land value
+c,h,69,31,106,65.09433962264151,Corporate income tax,Financial transaction tax
+c,i,54,47,105,51.42857142857142,Corporate income tax,Tax on cigarettes
+c,j,86,20,112,76.78571428571429,Corporate income tax,Tax on sugar
+c,k,41,78,121,33.88429752066116,Corporate income tax,Tax on alcohol
+c,l,76,46,124,61.29032258064516,Corporate income tax,Tax on single use plastic
+c,m,65,53,118,55.08474576271186,Corporate income tax,"Tax on pollution, like greenhouse gasses"
+d,e,26,85,111,23.423423423423422,Local tax,Tax on imports (tariffs)
+d,f,85,36,121,70.24793388429752,Local tax,Social tax/contributions in payroll
+d,g,93,28,121,76.85950413223141,Local tax,Tax on land value
+d,h,65,52,119,54.621848739495796,Local tax,Financial transaction tax
+d,i,38,71,110,34.54545454545455,Local tax,Tax on cigarettes
+d,j,68,34,103,66.01941747572816,Local tax,Tax on sugar
+d,k,26,76,102,25.49019607843137,Local tax,Tax on alcohol
+d,l,52,47,101,51.48514851485149,Local tax,Tax on single use plastic
+d,m,53,49,103,51.45631067961165,Local tax,"Tax on pollution, like greenhouse gasses"
+e,f,80,20,101,79.20792079207921,Tax on imports (tariffs),Social tax/contributions in payroll
+e,g,72,23,95,75.78947368421053,Tax on imports (tariffs),Tax on land value
+e,h,64,18,85,75.29411764705883,Tax on imports (tariffs),Financial transaction tax
+e,i,47,36,87,54.02298850574713,Tax on imports (tariffs),Tax on cigarettes
+e,j,78,15,98,79.59183673469387,Tax on imports (tariffs),Tax on sugar
+e,k,31,76,109,28.440366972477065,Tax on imports (tariffs),Tax on alcohol
+e,l,73,37,112,65.17857142857143,Tax on imports (tariffs),Tax on single use plastic
+e,m,61,32,94,64.8936170212766,Tax on imports (tariffs),"Tax on pollution, like greenhouse gasses"
+f,g,53,51,105,50.476190476190474,Social tax/contributions in payroll,Tax on land value
+f,h,29,89,118,24.576271186440678,Social tax/contributions in payroll,Financial transaction tax
+f,i,27,106,133,20.30075187969925,Social tax/contributions in payroll,Tax on cigarettes
+f,j,58,67,125,46.400000000000006,Social tax/contributions in payroll,Tax on sugar
+f,k,26,94,121,21.487603305785125,Social tax/contributions in payroll,Tax on alcohol
+f,l,45,67,113,39.823008849557525,Social tax/contributions in payroll,Tax on single use plastic
+f,m,35,75,113,30.973451327433626,Social tax/contributions in payroll,"Tax on pollution, like greenhouse gasses"
+g,h,41,68,113,36.283185840707965,Tax on land value,Financial transaction tax
+g,i,26,88,119,21.84873949579832,Tax on land value,Tax on cigarettes
+g,j,60,59,122,49.18032786885246,Tax on land value,Tax on sugar
+g,k,30,89,121,24.793388429752067,Tax on land value,Tax on alcohol
+g,l,38,81,121,31.40495867768595,Tax on land value,Tax on single use plastic
+g,m,34,74,111,30.630630630630627,Tax on land value,"Tax on pollution, like greenhouse gasses"
+h,i,21,75,99,21.21212121212121,Financial transaction tax,Tax on cigarettes
+h,j,59,37,99,59.59595959595959,Financial transaction tax,Tax on sugar
+h,k,31,69,102,30.392156862745097,Financial transaction tax,Tax on alcohol
+h,l,47,68,116,40.51724137931034,Financial transaction tax,Tax on single use plastic
+h,m,51,73,124,41.12903225806452,Financial transaction tax,"Tax on pollution, like greenhouse gasses"
+i,j,107,19,126,84.92063492063492,Tax on cigarettes,Tax on sugar
+i,k,30,97,127,23.62204724409449,Tax on cigarettes,Tax on alcohol
+i,l,79,36,116,68.10344827586206,Tax on cigarettes,Tax on single use plastic
+i,m,54,52,107,50.467289719626166,Tax on cigarettes,"Tax on pollution, like greenhouse gasses"
+j,k,20,84,106,18.867924528301888,Tax on sugar,Tax on alcohol
+j,l,35,68,105,33.33333333333333,Tax on sugar,Tax on single use plastic
+j,m,31,78,111,27.927927927927925,Tax on sugar,"Tax on pollution, like greenhouse gasses"
+k,l,79,36,116,68.10344827586206,Tax on alcohol,Tax on single use plastic
+k,m,75,46,121,61.98347107438017,Tax on alcohol,"Tax on pollution, like greenhouse gasses"
+l,m,51,78,129,39.53488372093023,Tax on single use plastic,"Tax on pollution, like greenhouse gasses"

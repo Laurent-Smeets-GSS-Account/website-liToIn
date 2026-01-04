@@ -1,0 +1,76 @@
+predictor,variable_label,category
+wat_disrupt,Water Service Disruption,Infrastructure
+no_wat_disrupt,No Water Service Disruption,Infrastructure
+elec_disrupt,Electricity Disruption,Infrastructure
+no_elec_disrupt,No Electricity Disruption,Infrastructure
+homeint_dis,Home Internet Disruption,Infrastructure
+nohomeint_dis,No Home Internet Disruption,Infrastructure
+mobint_dis,Mobile Internet Disruption,Infrastructure
+nomobint_dis,No Mobile Internet Disruption,Infrastructure
+unab_pay_util,Unable to Pay Utilities,Financial Hardship
+able_pay_util,Able to Pay Utilities,Financial Hardship
+worsefinwb_last,Finances Worse Than Last Month,Financial Hardship
+worsefinwb_next,Expects Worse Finances Next Month,Financial Hardship
+befinwb_last,Finances Better Than Last Month,Financial Hardship
+befinwb_next,Expects Better Finances Next Month,Financial Hardship
+borrow,Had to Borrow Money,Financial Hardship
+noborrow,Did Not Need to Borrow,Financial Hardship
+dissave,Used Savings for Basic Needs,Financial Hardship
+no_save,No Savings Available,Financial Hardship
+sell_asset,Sold Assets for Basic Needs,Financial Hardship
+unable_save,Cannot Save Money,Financial Hardship
+need_health,Needed Healthcare,Health Issues
+forgo_health,Forgone Healthcare,Health Issues
+sick,Anyone in Household Been Sick,Health Issues
+death,Death in Household,Health Issues
+maj_illInj,Major Illness or Injury in Household,Health Issues
+maj_birth,Birth in Household,Health Issues
+miss_school,Child Missed Scheduled School,Education
+no_miss_sch,No Missed School,Education
+worried_educ,Worried About Education Access/Quality,Education
+satloceduc,Satisfied with Local Education,Education
+dissatloceduc,Dissatisfied with Local Education,Education
+badloc_econ,Local Economy is Bad,Economic Perceptions
+goodloc_econ,Local Economy is Good,Economic Perceptions
+goodtime_job,Good Time to Find a Job,Economic Perceptions
+badtime_job,Bad Time to Find a Job,Economic Perceptions
+goodtime_bus,Good Time to Start a Business,Economic Perceptions
+badtime_bus,Bad Time to Start a Business,Economic Perceptions
+optim_econ,Optimistic About Economy,Economic Perceptions
+pessim_econ,Pessimistic About Economy,Economic Perceptions
+worried_job,Worried About Jobs,Economic Perceptions
+no_worried_job,Not Worried About Jobs,Economic Perceptions
+ln_pcinc_hf,Log Per Capita Income,Economic Perceptions
+any_unemp,Unemployment in Household,Economic Perceptions
+subj_poor,Self-Classifies as Poor,Economic Perceptions
+food_insec,Household Food Insecurity,Food Security
+food_secure,Household Food Security,Food Security
+worried,Worried About Food Running Out,Food Security
+unhealthy,Ate Unhealthy Food Due to Cost,Food Security
+low_diversity,Limited Diet Variety Due to Cost,Food Security
+skip_meal,Skipped Meals Due to Lack of Money,Food Security
+eat_less,Ate Less Due to Lack of Money,Food Security
+ran_out,Ran Out of Food,Food Security
+went_hungry,Went Hungry Due to Lack of Money,Food Security
+whole_day,Whole Day Without Food,Food Security
+open_dialogue,Open Dialogue with Government,Public Services
+unopen_dialogue,No Open Dialogue with Government,Public Services
+rising_prices,Prices Rising Too Fast,Public Services
+infl_fast,Inflation is Too Fast,Public Services
+infl_norm,Inflation is at Typical Pace,Public Services
+infl_slow,Inflation is Slow,Public Services
+right_track,Country on Right Track,Public Services
+not_right_track,Country on Wrong Track,Public Services
+election_fair,Elections are Fair,Public Services
+election_unfair,Elections are Unfair,Public Services
+notenou_corrupt,Not Enough Done on Corruption,Public Services
+enough_corrupt,Enough Done to Fight Corruption,Public Services
+air_polser,Air Pollution is Serious Problem,Public Services
+dissatis_index,Dissatisfaction Index (0-26),Public Services
+pension_dum,Pension Income,Income Sources
+sa_inc_dum,Social Assistance Income,Income Sources
+wage_dum,Wage Employment Income,Income Sources
+ag_inc_dum,Agricultural Income,Income Sources
+self_emp_dum,Self-Employed Business Income,Income Sources
+hap_dig_ser,Happy with Digital Services,Digital Services
+unhap_dig_ser,Unhappy with Digital Services,Digital Services

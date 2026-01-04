@@ -1,0 +1,10 @@
+date,trust_variable,mean_trust,n,trust_label
+2024-05-01,trust1_b,1.1600053240016241,1574,Trust in National Government
+2024-05-01,trust1_c,1.1824080563700379,1574,Trust in District Government
+2024-05-01,trust1_d,1.1605365487997144,1574,Trust in Statistics Service
+2024-06-01,trust1_b,1,1,Trust in National Government
+2024-06-01,trust1_c,1,1,Trust in District Government
+2024-06-01,trust1_d,1,1,Trust in Statistics Service
+2024-08-01,trust1_b,1.2166106331272732,1308,Trust in National Government
+2024-08-01,trust1_c,1.2403394385602184,1308,Trust in District Government
+2024-08-01,trust1_d,1.189856150408015,1308,Trust in Statistics Service

@@ -1,0 +1,19 @@
+wb32,wb33,n,percentage,current_class,future_class,direction
+1,1,1298605.732421875,0.4696152827377956,Extreme poor,Extreme poor,stable
+1,2,599686.8359375,0.2168649775538133,Extreme poor,Poor,improvement
+1,3,1508353.0546875,0.5454662863103468,Extreme poor,Lower middle class,improvement
+1,4,1044875.30859375,0.3778586534928265,Extreme poor,Upper middle class,improvement
+2,1,467728.37109375,0.16914478794578588,Poor,Extreme poor,decline
+2,2,16348876.16015625,5.912250276362367,Poor,Poor,stable
+2,3,29094363.31982422,10.521405624041003,Poor,Lower middle class,improvement
+2,4,16242133.275390625,5.873648806525969,Poor,Upper middle class,improvement
+2,5,6454502.18359375,2.334144068675173,Poor,Rich,improvement
+3,1,76457.0859375,0.027649204938348826,Lower middle class,Extreme poor,decline
+3,2,977057.3046875,0.35333360306066036,Lower middle class,Poor,decline
+3,3,78656417.41113281,28.444550011944013,Lower middle class,Lower middle class,stable
+3,4,68546664.97558594,24.788556410580416,Lower middle class,Upper middle class,improvement
+3,5,23244130.4453125,8.405783694418071,Lower middle class,Rich,improvement
+4,3,1634291.375,0.5910094087719873,Upper middle class,Lower middle class,decline
+4,4,19358573.791015625,7.000648370243667,Upper middle class,Upper middle class,stable
+4,5,8579896.8818359375,3.1027513581894017,Upper middle class,Rich,improvement
+5,5,2392827.6640625,0.8653191742083528,Rich,Rich,stable
